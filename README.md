@@ -12,5 +12,7 @@ Obviously, simulating a market is a bit more complicated. Normally, we would jus
 
 Add Parameters to simulation:
 -Raw Materials in economy.
+
 -Advanced Products and their raw material recipes.
+
 -Economics agents Eg: merchants, governments, corporations.
